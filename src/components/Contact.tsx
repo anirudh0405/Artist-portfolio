@@ -167,7 +167,7 @@ export default function Contact() {
                 </h2>
                 <div className="h-1 w-20 bg-amber-500 mb-6" />
                 <p className="text-neutral-400 text-base leading-relaxed">
-                  Have a specific artwork concept in mind? Interested in custom hand-painted sneakers, detailed charcoal drawings, corporate canvas painting commissions, or school creative projects? Let's discuss details and bring your ideas to life.
+                  Looking for custom artwork? From handcrafted décor pieces and temple models to school projects, event displays, and creative installations, let's turn your ideas into beautiful artistic creations.
                 </p>
               </div>
 
